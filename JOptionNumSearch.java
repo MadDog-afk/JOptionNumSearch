@@ -1,10 +1,9 @@
-import java.util.*;
 import javax.swing.*;
 
-public class ActivityTwo {
+public class JOptionNumSearch {
   public static void main (String[] arg) {
         int [] num = new int [5];
-        int i;
+        int i = 0;
         String inpt, srch, mssg="";
         int index = i;
 
